@@ -1,4 +1,4 @@
-# GrammSchmidt
+# Gramm Schmidt
 
 Este es un programa que ortogonaliza bases de dimension del (1 al 5) por el método de Gramm Schmidt. 
 
